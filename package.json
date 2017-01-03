@@ -1,0 +1,14 @@
+{
+  "name": "memoryleak",
+  "version": "1.0.0",
+  "description": "Memory Leak Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhinav.dhasmana@live.com",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.0.1"
+  }
+}
